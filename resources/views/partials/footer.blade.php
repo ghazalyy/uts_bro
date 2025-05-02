@@ -3,20 +3,12 @@
         <div class="footer-credit">
             <div class="row ">
                 <div class="col-md-6 ">
-                    <div class="footer-social">
-                        <ul class="d-flex justify-content-md-start justify-content-center">
-                            <li><a href="javascript:void(0)"><i class="lni lni-facebook-filled"></i></a></li>
-                            <li><a href="javascript:void(0)"><i class="lni lni-twitter-filled"></i></a></li>
-                            <li><a href="javascript:void(0)"><i class="lni lni-instagram-filled"></i></a></li>
-                            <li><a href="javascript:void(0)"><i class="lni lni-linkedin-original"></i></a></li>
-                        </ul>
-                    </div>
                 </div>
                 <div class="col-md-6 ">
                     <div class="text-md-right text-center">
                         <p>
-                            <span>Developed by Team 4 </span>
-                            {{-- <span>& Designed by Team 4 </span> --}}
+                            <span>Developed by Team 5 Class B Informatics </span>
+                            {{-- <span>& Designed by Team 5 Class B Informatics </span> --}}
                         </p>
                     </div>
                 </div>
